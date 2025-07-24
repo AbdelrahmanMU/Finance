@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "e436df80-5f02-43ea-b3e5-829a552d3a65",
+		"name": "FinanceAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "44652558"
+	},
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetFinanceDashboard",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
